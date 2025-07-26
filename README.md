@@ -13,15 +13,17 @@ A fully responsive and modern frontend clone of Netflix, created using **HTML**,
 - 💡 Semantic HTML and clean CSS structure
 - ⚡ Fast and lightweight with zero frameworks
 
----
+## 📸 Screenshots
 
-## 🖼️ Preview
+## 🏠 Homepage UI
+![Homepage Screenshot 1](./Netflix%20clone%20pics/Screenshot%202025-07-27%20001705.png)  
+![Homepage Screenshot 2](./Netflix%20clone%20pics/Screenshot%202025-07-27%20001722.png)  
+![Homepage Screenshot 3](./Netflix%20clone%20pics/Screenshot%202025-07-27%20001733.png)  
+![Homepage Screenshot 4](./Netflix%20clone%20pics/Screenshot%202025-07-27%20001748.png)  
 
-> _Add screenshots or a video demo here if available_
+## 👤 Profile Section
+![Profile Screenshot](./Netflix%20clone%20pics/Screenshot%202025-07-27%20001805.png)
 
-![Netflix Clone Screenshot](preview.png)
-
----
 
 ## 🔧 Tech Stack
 
@@ -29,20 +31,18 @@ A fully responsive and modern frontend clone of Netflix, created using **HTML**,
 - **CSS3** – Flexbox, Grid, animations, media queries
 - **JavaScript (Vanilla)** – For interactivity (like scrolling carousels)
 
----
+## 📁 Project Structure
 
-## 📍 Live Demo
-
-[🔗 View Live on Netlify](https://your-netlify-link.netlify.app)
-
-> Replace the link above with your actual Netlify or GitHub Pages deployment URL.
-
----
+```bash
 netflix-clone/
-├── index.html            # Main HTML file
-├── style.css             # Custom styling
-├── script.js             # JavaScript for interactions
-├── README.md             # Project overview and documentation
-└── screenshots/
-    └── homepage.png      # Screenshot of the homepage UI
+├── index.html               # Main HTML file
+├── style.css                # Custom CSS styling
+├── script.js                # JavaScript for interactivity
+├── README.md                # Project documentation
+└── Netflix clone pics/      # Folder containing screenshots
+    ├── homepage1.png
+    ├── homepage2.png
+    ├── homepage3.png
+    ├── homepage4.png
+    └── profile.png
 
