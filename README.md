@@ -31,6 +31,9 @@ A fully responsive and modern frontend clone of Netflix, created using **HTML**,
 - **CSS3** – Flexbox, Grid, animations, media queries
 - **JavaScript (Vanilla)** – For interactivity (like scrolling carousels)
 
+🔗 **Live Demo:** [Launch App](https://netflix-clone-five-neon-63.vercel.app/)
+
+
 ## 📁 Project Structure
 
 ```bash
